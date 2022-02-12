@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csejps
 - 👀 I’m interested in DCC model railway with Arduino 
-- 🌱 I’m currently a retired EE
+- 🌱 I’m a retired EE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jpschmidt195@gmail.com
 
